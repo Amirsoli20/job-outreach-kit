@@ -1,0 +1,19 @@
+{
+  "_comment": "Job search settings. /setup fills the empty fields from your profile and adds big employers in your field and markets. See README.",
+  "linkedin_keywords": "",
+  "indeed_query": "",
+  "title_regex": "",
+  "exclude_title_regex": "",
+  "contact_tier2_regex": "",
+  "contact_tier3_regex": "",
+  "excluded_country_regex": "",
+  "markets": [],
+  "banned_companies": ["hire feed", "hirefeed"],
+  "big_company_phrases": ["tata consultancy services", "jpmorgan chase"],
+  "big_companies": ["amazon", "amazon web services", "aws", "google", "alphabet", "microsoft", "meta", "apple",
+    "netflix", "spotify", "uber", "airbnb", "booking.com", "openai", "anthropic", "ibm", "oracle", "sap", "salesforce",
+    "adobe", "atlassian", "shopify", "stripe", "paypal", "visa", "mastercard", "revolut", "klarna", "siemens", "bosch",
+    "philips", "ikea", "samsung", "sony", "intel", "nvidia", "tesla", "accenture", "deloitte", "pwc", "kpmg", "ey",
+    "capgemini", "tcs", "infosys", "wipro", "cognizant", "jpmorgan", "goldman sachs", "morgan stanley", "citi", "hsbc",
+    "barclays", "unilever", "nestle", "procter & gamble", "coca-cola", "pepsico", "loreal", "l'oreal"]
+}

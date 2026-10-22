@@ -1,0 +1,24 @@
+# Your data: job runs, contacts, outreach database, logs. Never commit.
+data/*
+!data/.gitkeep
+
+# Local email drafts (used when Gmail is not connected)
+drafts/*
+!drafts/.gitkeep
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json
